@@ -5,7 +5,7 @@
 <h3 align="center"> 👋 Seja muito bem vindo! É um prazer Tê-lo aqui.</h3>
 
 <br/>
-*"Apaixonado por tecnologia, sou formado em Sistemas de Informação e pós graduando em Business Intelligence. Estou sempre em busca de conhecimento, e hoje me aventuro no mundo dos dados buscando conhecimento e é claro, novas oportunidades profissionais."*
+"Apaixonado por tecnologia, sou formado em Sistemas de Informação e pós graduando em Business Intelligence. Estou sempre em busca de conhecimento, e hoje me aventuro no mundo dos dados buscando conhecimento e é claro, novas oportunidades profissionais."
 <br/>
 <br/>
 
