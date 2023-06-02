@@ -21,7 +21,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/jr-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jr-lima" height="30" width="40" /></a>
-<a href="https://instagram.com/tdlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tdlima" height="30" width="40" /></a>
+<a href="https://instagram.com/tdlima31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tdlima31" height="30" width="40" /></a>
 <a href="https://discord.gg/Jr Lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jr Lima" height="30" width="40" /></a>
 </p>
 <br/>
