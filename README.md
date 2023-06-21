@@ -13,7 +13,7 @@
 
 - 🤔 A vc que atua nessa área, conto com sua experiência caso queira deixar dicas ou conselhos. Para quem está iniciando como eu, será muito bem vindo. 
 
-- 👨‍💻 Tenho aqui alguns projetos em **Java, Kubernetes e Terraform**
+- 👨‍💻 Tenho aqui alguns projetos em **Java, Kubernetes, Terraform e Python**
 
 - 😄 **![Vc pode conferir meus projetos clicando aqui](https://github.com/tdlima?tab=repositories)** 
 
