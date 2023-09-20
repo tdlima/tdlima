@@ -15,7 +15,7 @@
 
 - 👨‍💻 Tenho aqui alguns projetos em **Java, Kubernetes, Terraform e Python**
 
-- 😄 **![Vc pode conferir meus projetos clicando aqui](https://github.com/tdlima?tab=repositories)** 
+- 😄 Vc pode conferir meus projetos **[clicando aqui](https://github.com/tdlima/Projetos_em_Dados/)** 
 
 - 📫 Caso queira me contactar, é so acessar minhas redes sociais. 
 
