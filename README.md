@@ -10,43 +10,13 @@
 
 ---
 
-### Sobre mim
+<p align="center">
+  <img src="./assets/sobre-mim.svg" width="100%" alt="Sobre mim — Formado em Sistemas de Informação, com base em análise de dados. Aplico IA generativa: crio agentes e assistentes com Claude, automatizo rotinas e conecto sistemas. Experiência em automação de processos de RH: relatórios e indicadores, documentos institucionais, avaliação de desempenho com feedback estruturado e roteiros de entrevista para contratação."/>
+</p>
 
-Sou formado em Sistemas de Informação, com base em **análise de dados**. Hoje aplico **IA generativa** para resolver problemas reais de negócio: crio **agentes e assistentes com Claude**, automatizo rotinas que tomam horas da equipe e conecto sistemas para que os dados trabalhem sozinhos.
-
-Tenho experiência prática com **automação de processos de RH**, onde desenvolvi soluções para:
-
-- **Relatórios e indicadores** de gestão de pessoas
-- **Documentos institucionais** padronizados e gerados de forma automatizada
-- **Avaliação de desempenho** com feedback estruturado
-- **Roteiros de entrevista** para processos de contratação
-
-> Gosto de transformar processos manuais em fluxos simples, confiáveis e documentados.
-
-### O que eu construo
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Agentes e assistentes de IA</b><br/>
-      <sub>Assistentes com Claude treinados no contexto da empresa, com skills, ferramentas e integrações via MCP.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Automação de processos</b><br/>
-      <sub>Scripts e fluxos que eliminam tarefas repetitivas: relatórios, planilhas, e-mails, arquivos e rotinas administrativas.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Integrações e APIs</b><br/>
-      <sub>Conexão entre sistemas, Google Workspace, APIs REST, OAuth2 e coleta de dados na web.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b>Dados e análise</b><br/>
-      <sub>Pipelines, tratamento e visualização de dados para apoiar decisões com Python, SQL e Power BI.</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/servicos.svg" width="100%" alt="O que eu construo — Agentes e assistentes de IA com Claude e MCP; automação de processos e rotinas de RH; integrações e APIs; dados e análise com Python, SQL e Power BI."/>
+</p>
 
 ### Stack
 
