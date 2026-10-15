@@ -98,13 +98,6 @@ Sou formado em Sistemas de Informação, com base em **análise e engenharia de 
 
 <p align="right"><a href="https://github.com/tdlima?tab=repositories"><sub>ver todos os repositórios →</sub></a></p>
 
-### Atividade
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tdlima&show_icons=true&hide_border=true&bg_color=0B1626&title_color=E3C58C&icon_color=C9A15E&text_color=D7DDE6&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdlima&layout=compact&hide_border=true&bg_color=0B1626&title_color=E3C58C&text_color=D7DDE6&locale=pt-br&exclude_repo=github-profile-readme-generator,DevOpsLab-HelloWorld" alt="Linguagens mais usadas"/>
-</p>
-
 ---
 
 <p align="center">
