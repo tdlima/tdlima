@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="470" viewBox="0 0 1280 470" role="img" aria-label="O que eu construo">
+  <defs>
+    <style>
+      .sans{font-family:'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace}
+      .t{font-size:25px;font-weight:600;fill:#13294B}
+      .d{font-size:20px;fill:#4A5A70}
+      .n{font-size:15px;fill:#A9813F;letter-spacing:2px}
+    </style>
+  </defs>
+  <rect width="1280" height="470" rx="18" fill="#F7F2E8"/>
+  <rect x="0.75" y="0.75" width="1278.5" height="468.5" rx="18" fill="none" stroke="#C9A15E" stroke-opacity=".55" stroke-width="1.5"/>
+  <rect x="64" y="56" width="44" height="4" fill="#C9A15E"/>
+  <text x="64" y="104" class="sans" font-size="38" font-weight="600" fill="#13294B">O que eu construo</text>
+
+  <g class="sans">
+    <rect x="64" y="136" width="560" height="140" rx="12" fill="#FFFDF8" stroke="#E2D5BC"/>
+    <text x="92" y="176" class="mono n">01</text>
+    <text x="132" y="178" class="t">Agentes e assistentes de IA</text>
+    <text x="92" y="216" class="d">Assistentes com Claude no contexto da empresa,</text>
+    <text x="92" y="244" class="d">com skills, ferramentas e integrações via MCP.</text>
+
+    <rect x="656" y="136" width="560" height="140" rx="12" fill="#FFFDF8" stroke="#E2D5BC"/>
+    <text x="684" y="176" class="mono n">02</text>
+    <text x="724" y="178" class="t">Automação de processos</text>
+    <text x="684" y="216" class="d">Fluxos que eliminam tarefas repetitivas: relatórios,</text>
+    <text x="684" y="244" class="d">planilhas, e-mails, documentos e rotinas de RH.</text>
+
+    <rect x="64" y="296" width="560" height="140" rx="12" fill="#FFFDF8" stroke="#E2D5BC"/>
+    <text x="92" y="336" class="mono n">03</text>
+    <text x="132" y="338" class="t">Integrações e APIs</text>
+    <text x="92" y="376" class="d">Conexão entre sistemas, Google Workspace,</text>
+    <text x="92" y="404" class="d">APIs REST, OAuth2 e coleta de dados na web.</text>
+
+    <rect x="656" y="296" width="560" height="140" rx="12" fill="#FFFDF8" stroke="#E2D5BC"/>
+    <text x="684" y="336" class="mono n">04</text>
+    <text x="724" y="338" class="t">Dados e análise</text>
+    <text x="684" y="376" class="d">Tratamento e visualização de dados para apoiar</text>
+    <text x="684" y="404" class="d">decisões com Python, SQL e Power BI.</text>
+  </g>
+</svg>
