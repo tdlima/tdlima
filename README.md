@@ -12,7 +12,14 @@
 
 ### Sobre mim
 
-Sou formado em Sistemas de Informação, com base em **análise e engenharia de dados**. Hoje aplico **IA generativa** para resolver problemas reais de negócio: crio **agentes e assistentes com Claude**, automatizo rotinas que tomam horas da equipe e conecto sistemas para que os dados trabalhem sozinhos.
+Sou formado em Sistemas de Informação, com base em **análise de dados**. Hoje aplico **IA generativa** para resolver problemas reais de negócio: crio **agentes e assistentes com Claude**, automatizo rotinas que tomam horas da equipe e conecto sistemas para que os dados trabalhem sozinhos.
+
+Tenho experiência prática com **automação de processos de RH**, onde desenvolvi soluções para:
+
+- **Relatórios e indicadores** de gestão de pessoas
+- **Documentos institucionais** padronizados e gerados de forma automatizada
+- **Avaliação de desempenho** com feedback estruturado
+- **Roteiros de entrevista** para processos de contratação
 
 > Gosto de transformar processos manuais em fluxos simples, confiáveis e documentados.
 
