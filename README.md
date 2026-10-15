@@ -1,41 +1,112 @@
-![banner](https://github.com/tdlima/images/blob/main/BRPT_HeroImage_Applications_16.jpg?raw=true)
-
-
-<h1 align="center">E ai, tudo certo? Eu sou o Jr. Lima</h1>
-<h3 align="center"> 👋 Seja muito bem vindo! É um prazer Tê-lo aqui.</h3>
-
-<br/>
-"Apaixonado por tecnologia, sou formado em Sistemas de Informação. Estou sempre em busca de conhecimento, e hoje me aventuro no mundo dos dados buscando conhecimento e é claro, novas oportunidades profissionais."
-<br/>
-<br/>
-
-- 🔭 No momento, estou estudando **Análise** e **Engenharia de Dados** e me aperfeiçoando em tecnologias como **Python, SQL, Power BI, Databricks, Spark** 
-
-- 🤔 A vc que atua nessa área, conto com sua experiência caso queira deixar dicas ou conselhos. Para quem está iniciando como eu, será muito bem vindo. 
-
-- 👨‍💻 Tenho aqui alguns projetos em **Java, Kubernetes, Terraform e Python**
-
-- 😄 Vc pode conferir meus projetos em análise de dados **[clicando aqui](https://github.com/tdlima/Projetos_em_Dados/)** 
-
-- 📫 Caso queira me contactar, é so acessar minhas redes sociais. 
-
-<p align="left">
-<a href="https://linkedin.com/in/jr-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jr-lima" height="30" width="40" /></a>
-<a href="https://instagram.com/tdlima31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tdlima31" height="30" width="40" /></a>
-<a href="https://discord.gg/Jr Lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jr Lima" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Jr. Lima — IA aplicada, Claude e automações" width="100%"/>
 </p>
-<br/>
 
-<h3 align="left">Skills:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jr-lima/"><img src="https://img.shields.io/badge/LinkedIn-jr--lima-0B1626?style=for-the-badge&logo=linkedin&logoColor=E3C58C&labelColor=15263D" alt="LinkedIn"/></a>
+  <a href="mailto:tdlima.ti@gmail.com"><img src="https://img.shields.io/badge/E--mail-tdlima.ti%40gmail.com-0B1626?style=for-the-badge&logo=gmail&logoColor=E3C58C&labelColor=15263D" alt="E-mail"/></a>
+  <img src="https://img.shields.io/badge/Montes%20Claros-MG-0B1626?style=for-the-badge&logo=googlemaps&logoColor=E3C58C&labelColor=15263D" alt="Montes Claros - MG"/>
+</p>
 
+---
 
-![Profile views](https://gpvc.arturio.dev/tdlima)  
+### Sobre mim
 
-<br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdlima&show_icons=true&theme=dark&locale=en&layout=compact" alt="tdlima" /></p>
+Sou formado em Sistemas de Informação, com base em **análise e engenharia de dados**. Hoje aplico **IA generativa** para resolver problemas reais de negócio: crio **agentes e assistentes com Claude**, automatizo rotinas que tomam horas da equipe e conecto sistemas para que os dados trabalhem sozinhos.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tdlima&show_icons=true&theme=dark&locale=en" alt="tdlima" /></p>
+> Gosto de transformar processos manuais em fluxos simples, confiáveis e documentados.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdlima&theme=dark" alt="tdlima" /></p>
+### O que eu construo
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Agentes e assistentes de IA</b><br/>
+      <sub>Assistentes com Claude treinados no contexto da empresa, com skills, ferramentas e integrações via MCP.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Automação de processos</b><br/>
+      <sub>Scripts e fluxos que eliminam tarefas repetitivas: relatórios, planilhas, e-mails, arquivos e rotinas administrativas.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Integrações e APIs</b><br/>
+      <sub>Conexão entre sistemas, Google Workspace, APIs REST, OAuth2 e coleta de dados na web.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Dados e análise</b><br/>
+      <sub>Pipelines, tratamento e visualização de dados para apoiar decisões com Python, SQL e Power BI.</sub>
+    </td>
+  </tr>
+</table>
+
+### Stack
+
+**IA e automação**<br/>
+<img src="https://img.shields.io/badge/Claude-15263D?style=flat-square&logo=claude&logoColor=E3C58C" alt="Claude"/>
+<img src="https://img.shields.io/badge/Anthropic%20API-15263D?style=flat-square&logo=anthropic&logoColor=E3C58C" alt="Anthropic API"/>
+<img src="https://img.shields.io/badge/MCP-15263D?style=flat-square&logo=modelcontextprotocol&logoColor=E3C58C" alt="Model Context Protocol"/>
+<img src="https://img.shields.io/badge/Engenharia%20de%20Prompt-15263D?style=flat-square" alt="Engenharia de Prompt"/>
+<img src="https://img.shields.io/badge/Web%20Scraping-15263D?style=flat-square" alt="Web Scraping"/>
+<img src="https://img.shields.io/badge/PowerShell-15263D?style=flat-square" alt="PowerShell"/>
+
+**Linguagens e dados**<br/>
+<img src="https://img.shields.io/badge/Python-15263D?style=flat-square&logo=python&logoColor=E3C58C" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-15263D?style=flat-square&logo=postgresql&logoColor=E3C58C" alt="SQL"/>
+<img src="https://img.shields.io/badge/Pandas-15263D?style=flat-square&logo=pandas&logoColor=E3C58C" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Flask-15263D?style=flat-square&logo=flask&logoColor=E3C58C" alt="Flask"/>
+<img src="https://img.shields.io/badge/Databricks-15263D?style=flat-square&logo=databricks&logoColor=E3C58C" alt="Databricks"/>
+<img src="https://img.shields.io/badge/Spark-15263D?style=flat-square&logo=apachespark&logoColor=E3C58C" alt="Apache Spark"/>
+<img src="https://img.shields.io/badge/Power%20BI-15263D?style=flat-square" alt="Power BI"/>
+
+**Cloud e infraestrutura**<br/>
+<img src="https://img.shields.io/badge/Azure-15263D?style=flat-square" alt="Azure"/>
+<img src="https://img.shields.io/badge/Docker-15263D?style=flat-square&logo=docker&logoColor=E3C58C" alt="Docker"/>
+<img src="https://img.shields.io/badge/Terraform-15263D?style=flat-square&logo=terraform&logoColor=E3C58C" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Linux-15263D?style=flat-square&logo=linux&logoColor=E3C58C" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-15263D?style=flat-square&logo=git&logoColor=E3C58C" alt="Git"/>
+
+### Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tdlima/gdrive-safe-downloader"><b>gdrive-safe-downloader</b></a><br/>
+      <sub>Download seguro e retomável do Google Drive pelo terminal, com verificação de integridade, histórico e sincronização de pastas.</sub><br/>
+      <sub><code>Python</code> <code>OAuth2</code> <code>CLI</code> <code>automação</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tdlima/podcastIA"><b>podcastIA</b></a><br/>
+      <sub>Criação de um podcast de ponta a ponta usando ferramentas de IA generativa.</sub><br/>
+      <sub><code>IA generativa</code> <code>conteúdo</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tdlima/webScrapingMercadolivre"><b>webScrapingMercadolivre</b></a><br/>
+      <sub>Coleta automatizada de dados de produtos na web para análise.</sub><br/>
+      <sub><code>Python</code> <code>web scraping</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tdlima/Projetos_em_Dados"><b>Projetos_em_Dados</b></a><br/>
+      <sub>Coleção de projetos de análise e engenharia de dados.</sub><br/>
+      <sub><code>Python</code> <code>Pandas</code> <code>SQL</code></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/tdlima?tab=repositories"><sub>ver todos os repositórios →</sub></a></p>
+
+### Atividade
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tdlima&show_icons=true&hide_border=true&bg_color=0B1626&title_color=E3C58C&icon_color=C9A15E&text_color=D7DDE6&locale=pt-br&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdlima&layout=compact&hide_border=true&bg_color=0B1626&title_color=E3C58C&text_color=D7DDE6&locale=pt-br&exclude_repo=github-profile-readme-generator,DevOpsLab-HelloWorld" alt="Linguagens mais usadas"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Tem um processo que poderia rodar sozinho? <a href="https://www.linkedin.com/in/jr-lima/">Vamos conversar.</a></sub>
+</p>
