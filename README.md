@@ -61,9 +61,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/tdlima/webScrapingMercadolivre"><b>webScrapingMercadolivre</b></a><br/>
-      <sub>Coleta automatizada de dados de produtos na web para análise.</sub><br/>
-      <sub><code>Python</code> <code>web scraping</code></sub>
+      <a href="https://github.com/tdlima/agente-documentos-ia"><b>agente-documentos-ia</b></a><br/>
+      <sub>Agente com Claude que redige documentos empresariais e de RH (ofício, relatório, PDI, ata, avaliação de desempenho) e exporta em Word, PDF e Markdown.</sub><br/>
+      <sub><code>Python</code> <code>Claude API</code> <code>Streamlit</code> <code>agentes de IA</code></sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/tdlima/Projetos_em_Dados"><b>Projetos_em_Dados</b></a><br/>
