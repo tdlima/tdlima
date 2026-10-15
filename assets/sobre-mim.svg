@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="600" viewBox="0 0 1280 600" role="img" aria-label="Sobre mim">
+  <defs>
+    <style>
+      .sans{font-family:'Segoe UI','Inter',-apple-system,Helvetica,Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,Menlo,monospace}
+      .b{font-weight:700;fill:#13294B}
+    </style>
+  </defs>
+  <rect width="1280" height="600" rx="18" fill="#F7F2E8"/>
+  <rect x="0.75" y="0.75" width="1278.5" height="598.5" rx="18" fill="none" stroke="#C9A15E" stroke-opacity=".55" stroke-width="1.5"/>
+  <rect x="64" y="56" width="44" height="4" fill="#C9A15E"/>
+
+  <text x="64" y="104" class="sans" font-size="38" font-weight="600" fill="#13294B">Sobre mim</text>
+
+  <g class="sans" font-size="25" fill="#3C4A5E">
+    <text x="64" y="162">Sou formado em Sistemas de Informação, com base em <tspan class="b">análise de dados</tspan>. Hoje aplico</text>
+    <text x="64" y="200"><tspan class="b">IA generativa</tspan> para resolver problemas reais de negócio: crio <tspan class="b">agentes e assistentes</tspan></text>
+    <text x="64" y="238"><tspan class="b">com Claude</tspan>, automatizo rotinas que tomam horas da equipe e conecto sistemas</text>
+    <text x="64" y="276">para que os dados trabalhem sozinhos.</text>
+  </g>
+
+  <text x="64" y="340" class="sans" font-size="25" fill="#3C4A5E">Tenho experiência prática com <tspan class="b">automação de processos de RH</tspan>:</text>
+
+  <g class="sans">
+    <rect x="64" y="368" width="560" height="64" rx="10" fill="#FFFDF8" stroke="#E2D5BC"/>
+    <circle cx="94" cy="400" r="6" fill="#C9A15E"/>
+    <text x="114" y="408" font-size="22" fill="#3C4A5E"><tspan class="b">Relatórios e indicadores</tspan> de pessoas</text>
+
+    <rect x="656" y="368" width="560" height="64" rx="10" fill="#FFFDF8" stroke="#E2D5BC"/>
+    <circle cx="686" cy="400" r="6" fill="#C9A15E"/>
+    <text x="706" y="408" font-size="22" fill="#3C4A5E"><tspan class="b">Documentos institucionais</tspan> automatizados</text>
+
+    <rect x="64" y="448" width="560" height="64" rx="10" fill="#FFFDF8" stroke="#E2D5BC"/>
+    <circle cx="94" cy="480" r="6" fill="#C9A15E"/>
+    <text x="114" y="488" font-size="22" fill="#3C4A5E"><tspan class="b">Avaliação de desempenho</tspan> e feedback</text>
+
+    <rect x="656" y="448" width="560" height="64" rx="10" fill="#FFFDF8" stroke="#E2D5BC"/>
+    <circle cx="686" cy="480" r="6" fill="#C9A15E"/>
+    <text x="706" y="488" font-size="22" fill="#3C4A5E"><tspan class="b">Roteiros de entrevista</tspan> para contratação</text>
+  </g>
+
+  <rect x="64" y="540" width="3" height="30" fill="#C9A15E"/>
+  <text x="80" y="563" class="sans" font-size="21" font-style="italic" fill="#6A7587">Gosto de transformar processos manuais em fluxos simples, confiáveis e documentados.</text>
+</svg>
